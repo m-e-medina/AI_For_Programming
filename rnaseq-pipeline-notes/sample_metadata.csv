@@ -1,6 +1,6 @@
 sample_id,condition,replicate
 S1,control,1
 S2,control,2
-S3,treated,1
+S3,control,1
 S4,treated,2
 S5,treated,3
