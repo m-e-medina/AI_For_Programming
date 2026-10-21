@@ -53,7 +53,7 @@ def main():
             sequence
         ) * 100
         if args.min_gc is None or gc_percent > args.min_gc:
-            print(f"{header}\t{gc_percent:.3f}%")
+            print(f"{header}\t{gc_percent:.4f}%")
     return 0
 
 
